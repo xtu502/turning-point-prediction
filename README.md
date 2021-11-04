@@ -8,7 +8,7 @@ Experimental program & data;
 
 2.RVFL-GMDH and traditional algorithm;
 
-3.UCI Experiment dataset;
+3.UCI Experiment data;
 
 Refer to the related material and data, pls cite the article as follows.
 
